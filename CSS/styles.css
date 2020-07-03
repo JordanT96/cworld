@@ -1,0 +1,20 @@
+/* CSS Template */
+body{
+    background-image: url(../images/Cactus10.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+.myjumbotron{
+    background-color: rgb(68, 156, 68);
+    text-align: center;
+    
+}
+
+.nav-bar-col{
+    background-color: turquoise;
+}
+
+body{
+    font-family: 'Courgette', cursive;
+}
